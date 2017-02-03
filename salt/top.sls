@@ -1,3 +1,3 @@
 base:
-  '955331307.acs.edcc.edu':
+  '*********.acs.edcc.edu':
     - apache
